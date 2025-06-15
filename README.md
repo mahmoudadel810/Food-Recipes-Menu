@@ -3,7 +3,10 @@
 
 This is a modern web application built with [Next.js](https://nextjs.org) and enhanced with various UI libraries and tools.
 <img width="1425" alt="Screenshot 2025-06-15 at 7 49 35 PM" src="https://github.com/user-attachments/assets/979a00d4-8eac-4439-99c5-53a791365b4f" />
-![Uploading Screenshot 2025-06-15 at 7.49.52 PM.png…]()
+
+![Uploading Screenshot 2025-06-15 at 7.50.48 PM.png…]()
+
+
 
 ## Tech Stack
 
