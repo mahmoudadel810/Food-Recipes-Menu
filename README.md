@@ -6,7 +6,8 @@ This is a modern web application built with [Next.js](https://nextjs.org) and en
 
 ![Uploading Screenshot 2025-06-15 at 7.50.48 PM.png…]()
 
-
+## Live Demo
+-** https://food-recipes-menu.vercel.app/
 
 ## Tech Stack
 
